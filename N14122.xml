@@ -114,12 +114,13 @@
    <text xml:lang="eng">
       <front>
          <div type="half_title">
-            <pb facs="tcp:017872_0000_0FA37BE8C0593BC0"/>
-            <pb facs="tcp:017872_0001_0FA37BE981290328" rendition="simple:additions"/>
+            <pb facs="unknown:017872_0000_0FA37BE8C0593BC0"/>
+            <pb facs="unknown:017872_0001_0FA37BE981290328"
+                rendition="simple:additions"/>
             <p>A CATALOGUE OF THE ANNAPOLIS CIRCULATING LIBRARY.</p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:017872_0002_0FA37BEA405E21A8"/>
+            <pb facs="unknown:017872_0002_0FA37BEA405E21A8"/>
             <p>A CATALOGUE OF THE ANNAPOLIS CIRCULATING LIBRARY, Consisting of near FIFTEEN HUNDRED VOLUMES, IN Agriculture, Arithmetic, Astronomy, Biography, Chymistry, Commerce, Gardening, Geography, Geometry, History, Husbandry, Law, Military Affairs, Mathematics, Navigation, Painting, Physic, Rhetoric, Surgery, Surveying, Voyages, Travels, Plays, Novels, Magazines, &amp;c.</p>
             <p>Which are lent to read, BY STEPHEN CLARK, Bookseller, Stationer and Bookbinder, IN CHURCH-STREET, ANNAPOLIS, Where may be had, All new Books, Stationary Wares of all Sorts, School-Books, Jewellery, Plated <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
@@ -133,8 +134,8 @@
             </p>
          </div>
          <div type="rules">
-            <pb facs="tcp:017872_0003_0FA37BEAFB805C60"/>
-            <pb facs="tcp:017872_0004_0FA37BEC399E0000"/>
+            <pb facs="unknown:017872_0003_0FA37BEAFB805C60"/>
+            <pb facs="unknown:017872_0004_0FA37BEC399E0000"/>
             <head>CONDITIONS, To be observed and consented to by every subscri<g ref="char:EOLhyphen"/>ber to CLARK'S CIRCULATING LIBRARY.</head>
             <p n="1">I. Every yearly subscriber to pay one guinea; half yearly subscribers to pay three dollars; quarterly subscribers to pay twelve shillings and six-pence; monthly subscribers to pay one dollar; single book to a nonsubscriber, (a deposit being made) twelves, six-pence, octavo one shilling.</p>
             <p n="2">II. In town one book at a time to be allowed, to be changed once a day, and no more; to sub<g ref="char:EOLhyphen"/>scribers in the country two books.</p>
@@ -154,7 +155,7 @@
       </front>
       <body>
          <div type="library_catalogue">
-            <pb facs="tcp:017872_0005_0FA37BECCC2062A8"/>
+            <pb facs="unknown:017872_0005_0FA37BECCC2062A8"/>
             <head>A CATALOGUE, &amp;c.</head>
             <div type="subject">
                <head>HISTORY, &amp;c. FOLIO, QUARTO AND OCTAVO.</head>
@@ -172,7 +173,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="3"/> Vol. 1. Contains history of the world to the birth of Abraham; history of Egypt to Alexan<g ref="char:EOLhyphen"/>der the Great; history of Egypt, of the Moa<g ref="char:EOLhyphen"/>bites, Syrians, Phoenicians and Holy Land; his<g ref="char:EOLhyphen"/>tory of the Jews to the Babylonish captivity; history of the Assyrians, Babylonians and Phry<g ref="char:EOLhyphen"/>gians.</item>
                      <item>
                         <milestone type="tcpmilestone" unit="unspecified" n="4"/> Vol. 2. History of the Medes, Persians, Scythi<g ref="char:EOLhyphen"/>ans, Lydians, Attica, Sparta, Athenians, Lace<g ref="char:EOLhyphen"/>doemonians,
-<pb n="8" facs="tcp:017872_0006_0FA37BED418052B8"/>
+<pb n="8" facs="unknown:017872_0006_0FA37BED418052B8"/>
 Thebans, Achaia, Athens and Ionia.</item>
                      <item>
                         <milestone type="tcpmilestone" unit="unspecified" n="5"/> Vol. 3. Sicily, Syracuse, Rhodes, Macedonians, Seleucidae in Syria, the Ptolemies, the Arme<g ref="char:EOLhyphen"/>nians, kingdoms of Pontus, Cappadocia, Perga<g ref="char:EOLhyphen"/>mus, Thrace, Epirus, &amp;c.</item>
@@ -191,7 +192,7 @@ Thebans, Achaia, Athens and Ionia.</item>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="11"/> An Inquiry into the prices of wheat, malt, and other provisions as sold in England, from the year 1000 to the year 1765, 1 vol.</p>
                <div n="quarto" type="size">
-                  <pb n="9" facs="tcp:017872_0007_0FA37BEDFB78A3D0"/>
+                  <pb n="9" facs="unknown:017872_0007_0FA37BEDFB78A3D0"/>
                   <head>QUARTO.</head>
                   <p>
                      <milestone type="tcpmilestone" unit="unspecified" n="12"/> Description of East-Florida, with a journal kept, by John Bartram of Philadelphia, 1 vol.</p>
@@ -221,7 +222,7 @@ Thebans, Achaia, Athens and Ionia.</item>
                      </gap>, or a view of the history, politics <gap reason="illegible" resp="#PDCC" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap>,
-<pb n="10" facs="tcp:017872_0008_0FA37BEEC284BEB0"/>
+<pb n="10" facs="unknown:017872_0008_0FA37BEEC284BEB0"/>
 clusive, in which is included the most complet<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> history extant of the war between Great-Bri<g ref="char:EOLhyphen"/>tain and the United States of America, also a collection of interesting and authentic papers, tending to elucidate the history, 26 vols.
@@ -286,7 +287,7 @@ clusive, in which is included the most complet<gap reason="illegible" resp="#PDC
                      </gap>
                   </p>
                   <p>
-                     <pb n="11" facs="tcp:017872_0009_0FA37BEF80ABF770"/>
+                     <pb n="11" facs="unknown:017872_0009_0FA37BEF80ABF770"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="49"/> Gentlemens and ladies magazines for the years 1778 to 1783 inclusive, in 6 vols.</p>
                   <p>
                      <milestone type="tcpmilestone" unit="unspecified" n="50"/> Hibernian magazine for the years 1778 to 1783 inclusive, in 6 vols.</p>
@@ -315,7 +316,7 @@ clusive, in which is included the most complet<gap reason="illegible" resp="#PDC
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="60"/> History of the island of Minorca, 1 vol.</p>
                <p>
-                  <pb n="12" facs="tcp:017872_0010_0FA37BF041B14DC8"/>
+                  <pb n="12" facs="unknown:017872_0010_0FA37BF041B14DC8"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="62"/> History (military) of Europe from the com<g ref="char:EOLhyphen"/>mencement of the war with Spain in 1739, to the treaty of Aix la Chapelle in 1748, 1 vol. Millot's elements of general history, ancient and modern, 5 vols.
 <list>
                      <item>
@@ -347,7 +348,7 @@ clusive, in which is included the most complet<gap reason="illegible" resp="#PDC
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="75"/> Forrest's voyage to New-Guinea and the Mo-</p>
                <p>
-                  <pb n="13" facs="tcp:017872_0011_0FA37BF101A77640"/>
+                  <pb n="13" facs="unknown:017872_0011_0FA37BF101A77640"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="76"/> Gulliver's travels, by Swift, 1 vol.</p>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="77"/> Dillon's travels through Spain, with a view to illustrate the natural history and physical geo<g ref="char:EOLhyphen"/>graphy of that kingdom, 1 vol.</p>
@@ -371,7 +372,7 @@ clusive, in which is included the most complet<gap reason="illegible" resp="#PDC
                   <milestone type="tcpmilestone" unit="unspecified" n="86"/> Letters on Iceland, containing observations on the civil, literary, ecclesiastical and natural his<g ref="char:EOLhyphen"/>tory, antiquities, volcanos, basaltes, hot springs, customs, dress, manners of the inhabitants, &amp;c. made during a voyage, undertaken in the year 1772, by Joseph Banks, <abbr>Esq</abbr> 1 vol.</p>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="87"/> History of the origin and progress of the late war, from the commencement to the exchange of the ratification of peace<g ref="char:punc">▪</g> between Great-Bri<g ref="char:EOLhyphen"/>tain,
-<pb n="14" facs="tcp:017872_0012_0FA37BF1C187BD28"/>
+<pb n="14" facs="unknown:017872_0012_0FA37BF1C187BD28"/>
 France and Spain, on the 10th of Fe<g ref="char:EOLunhyphen"/>bruary, 1763, 2 vols.</p>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="88"/> History of the war in America, between Great-Britain and the colonies, from its com<g ref="char:EOLhyphen"/>mencement to the end of the year 1778, in which its origin, progress and operations, are faithfully related, together with anecdotes and characters of the different commanders, and accounts of such personages in congress as have distinguished themselves during the contest, 2 vols.</p>
@@ -394,7 +395,7 @@ France and Spain, on the 10th of Fe<g ref="char:EOLunhyphen"/>bruary, 1763, 2 vo
                            <desc>•</desc>
                         </gap>ker, Gay, Gilpin, Godwin, &amp;c.</item>
                      <item>
-                        <pb n="15" facs="tcp:017872_0013_0FA37BF28104D570"/>
+                        <pb n="15" facs="unknown:017872_0013_0FA37BF28104D570"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="96"/> Vol. 6. Grabe, Graunt, Gregory, Grey, Grotius, Hall, Handel, Hoffman, Hooper, Humphrey, Hyde, &amp;c.</item>
                      <item>
                         <milestone type="tcpmilestone" unit="unspecified" n="97"/> Vol. 7. James, Johnson, Julian, Junius, Ju<g ref="char:EOLhyphen"/>venal, Latimer, L'Estrange, Lilly, Lister, Li<g ref="char:EOLhyphen"/>vius, &amp;c.</item>
@@ -434,7 +435,7 @@ France and Spain, on the 10th of Fe<g ref="char:EOLunhyphen"/>bruary, 1763, 2 vo
                         </gap>ton, Butler, Dryden, Denham, Sprat, Ros<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>common,
-<pb n="16" facs="tcp:017872_0014_0FA37BF34172DD68"/>
+<pb n="16" facs="unknown:017872_0014_0FA37BF34172DD68"/>
 Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, Smith, Pomfret, Hughes.</item>
                      <item>
                         <milestone type="tcpmilestone" unit="unspecified" n="107"/> Vol. 2. Addison, Blackmore, Sheffield, Gran<g ref="char:EOLhyphen"/>ville, Rowe, Tickell, Congreve, Fenton, Prior, Pope, Swift.</item>
@@ -464,7 +465,7 @@ Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, S
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="115"/> Life of Pope Clement IVth, (Ganganelli), 1 vol.</p>
                <p>
-                  <pb n="17" facs="tcp:017872_0015_0FA37BF4017BAB50"/>
+                  <pb n="17" facs="unknown:017872_0015_0FA37BF4017BAB50"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="116"/> Memoirs of Peter Henry Bruce, <abbr>Esq</abbr> a mili<g ref="char:EOLhyphen"/>tary officer in the services of Russia, Prussia and Great-Britain, containing, account of his travels in Germany, Russia, Tartary, Turkey, the West-Indies, &amp;c.</p>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="117"/> Universal Biography, ancient and modern, containing a circumstantial and curious detail of the lives, actions, opinions, writings and characters, of the most celebrated persons of both sexes, of all ranks, in all countries, and in all ages, alphabetically disposed, by Tho<g ref="char:EOLhyphen"/>mas Flloyd, <abbr>Esq</abbr> 3 vols.</p>
@@ -484,7 +485,7 @@ Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, S
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="123"/> Dutton (Anne) letters on spiritual subjects, to which are prefixed, memoirs of the dealings of God with her in her last sickness, 2 vols.</p>
                <p>
-                  <pb n="18" facs="tcp:017872_0016_0FA37BF4C157A4A8"/>
+                  <pb n="18" facs="unknown:017872_0016_0FA37BF4C157A4A8"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="124"/> Essay on faith, and its connexions with good works, by John Rotheram, 1 vol.</p>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="125"/> Farquhar's sermons on several subjects, 1 vol.</p>
@@ -513,7 +514,7 @@ Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, S
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="137"/> Priestley's examination of Dr. Reid's inquiry in<g ref="char:EOLhyphen"/>to the human mind, on the principles of common sense—Dr. Beattie's essay on the nature and im<g ref="char:EOLhyphen"/>mutability of truth—and Dr. Oswald's appeal to common sense in behalf of religion, 1 vol.</p>
                <p>
-                  <pb n="19" facs="tcp:017872_0017_0FA37BF580979C80"/>
+                  <pb n="19" facs="unknown:017872_0017_0FA37BF580979C80"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="138"/> Principal truths of natural religion, defend<g ref="char:EOLhyphen"/>ed and illustrated, in nine dissertations, by H. S. Reimarus, 1 vol.</p>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="139"/> Conformity between modern and ancient ce<g ref="char:EOLhyphen"/>remonies, wherein is proved, by incontestible authorities, that the ceremonies of the church of Rome are entirely derived from the Hea<g ref="char:EOLhyphen"/>thens, 1 vol.</p>
@@ -538,7 +539,7 @@ Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, S
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="149"/> Tull's horse-hoeing husbandry, or an essay on the principles of tillage and vegetation, 1 vol.</p>
                <p>
-                  <pb n="20" facs="tcp:017872_0018_0FA37BF6404E6268"/>
+                  <pb n="20" facs="unknown:017872_0018_0FA37BF6404E6268"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="150"/> Young's course of experimental agriculture, containing an exact register of all the business transacted during five years—on near three hundred acres of various soils, 4 vols.</p>
             </div>
             <div type="subject">
@@ -566,7 +567,7 @@ Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, S
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="161"/> New Edinburgh dispensatory, 1 vol.</p>
                <p>
-                  <pb n="21" facs="tcp:017872_0019_0FA37BF701883640"/>
+                  <pb n="21" facs="unknown:017872_0019_0FA37BF701883640"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="162"/> Haller on morbid bodies, 1 vol.</p>
             </div>
             <div type="subject">
@@ -604,7 +605,7 @@ Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, S
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="178"/> Raspe's account<g ref="char:punc">▪</g> of some German volcanos, 1 vol.</p>
                <p>
-                  <pb n="22" facs="tcp:017872_0020_0FA37BF7C6A92F58"/>
+                  <pb n="22" facs="unknown:017872_0020_0FA37BF7C6A92F58"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="179"/> Parnell's poems, 1 vol.</p>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="180"/> Remarks on the life and writings of Dr. Jonathan Swift, by the earl of Orrery, 1 vol.</p>
@@ -649,7 +650,7 @@ Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, S
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="197"/> Gregory's practical geometry, 1 vol.</p>
                <p>
-                  <pb n="23" facs="tcp:017872_0021_0FA37BF881590FF0"/>
+                  <pb n="23" facs="unknown:017872_0021_0FA37BF881590FF0"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="198"/> Salmon's geographical grammar, improved and brought down to the year 1786, 1 vol.</p>
             </div>
             <div type="subject">
@@ -702,7 +703,7 @@ Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, S
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="217"/> — method of teaching and studying the belles lettres, 4 vols.</p>
                <p>
-                  <pb n="24" facs="tcp:017872_0022_0FA37BF93B78CEC8"/>
+                  <pb n="24" facs="unknown:017872_0022_0FA37BF93B78CEC8"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="218"/> Rapin's history of England by question and answer, 1 vol.</p>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="219"/> Brydone's tour through Sicily and Malta, 2 vols.</p>
@@ -731,7 +732,7 @@ Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, S
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="231"/> Voyages and adventures of captain Robert Boyle in several parts of the world.</p>
                <p>
-                  <pb n="25" facs="tcp:017872_0023_0FA37BFA7A588DD0"/>
+                  <pb n="25" facs="unknown:017872_0023_0FA37BFA7A588DD0"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="232"/> Barrow's naval history of Great-Britain, with the lives of the most illustrious admirals and commanders, 4 vols.</p>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="233"/> Bolingbrooke on the study and use of history.</p>
@@ -771,7 +772,7 @@ Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, S
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="247"/> Collection and selection of English prologues and epilogues, commencing with Shakespear, and concluding with Garrick, 4 vols.</p>
                <p>
-                  <pb n="26" facs="tcp:017872_0024_0FA37BFB06C4B638"/>
+                  <pb n="26" facs="unknown:017872_0024_0FA37BFB06C4B638"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="248"/> Country gentleman's companion, 1 vol.</p>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="249"/> Description of three hundred animals, with a particular account of the whale fishery, 1 vol.</p>
@@ -808,7 +809,7 @@ Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, S
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="265"/> Shenstone's works in verse and prose, 2 vols.</p>
                <p>
-                  <pb n="27" facs="tcp:017872_0025_0FA37BFB812D21D8"/>
+                  <pb n="27" facs="unknown:017872_0025_0FA37BFB812D21D8"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="266"/> The mirror, a periodical paper published at Edinburgh in the years 1779 and 1780, 3 vols.</p>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="267"/> World, by Adam Fitz-Adam, 4 vols.</p>
@@ -844,7 +845,7 @@ Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, S
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="282"/> — of Fielding, 1 vol.</p>
                <p>
-                  <pb n="28" facs="tcp:017872_0026_0FA37BFC400007D0"/>
+                  <pb n="28" facs="unknown:017872_0026_0FA37BFC400007D0"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="283"/> Clark's peerage of the nobility of England, Scotland and Ireland, containing their titles, date of their creations, description of their arms, crests, seats, and town residence, 1 vol.</p>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="284"/> Enfield's speaker, 1 vol.</p>
@@ -879,7 +880,7 @@ Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, S
                   </list>
                </p>
                <p>
-                  <pb n="29" facs="tcp:017872_0027_0FA37BFD03E446E0"/>
+                  <pb n="29" facs="unknown:017872_0027_0FA37BFD03E446E0"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="298"/> Essay on the treatment and conversion of Af<g ref="char:EOLhyphen"/>rican slaves in the British sugar colonies, by James Ramsay, 1 vol.</p>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="299"/> Treatise on the effects and various preparati<g ref="char:EOLhyphen"/>ons of lead, by Goulard.</p>
@@ -915,7 +916,7 @@ Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, S
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="313"/> Memoirs of Maximilian de Bethune, duke of Sully, prime minister to Henry the great, 6 vols.</p>
                <p>
-                  <pb n="30" facs="tcp:017872_0028_0FA37BFDC2CBD200"/>
+                  <pb n="30" facs="unknown:017872_0028_0FA37BFDC2CBD200"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="314"/> Memoirs and adventures of the marquis de Bretagne and duc D'Harcourt, 3 vols.</p>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="315"/> History of Maurice count Saxe, 3 vols.</p>
@@ -954,7 +955,7 @@ Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, S
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="332"/> Letters from several parts of Europe and the east, 2 vols.</p>
                <p>
-                  <pb n="31" facs="tcp:017872_0029_0FA37BFE806FF040"/>
+                  <pb n="31" facs="unknown:017872_0029_0FA37BFE806FF040"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="333"/> Letters from Scotland, 1 vol.</p>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="334"/> Letters from Edinburgh, 2 vols.</p>
@@ -995,7 +996,7 @@ Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, S
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="349"/> Weston's gardener's and planter's calendar, 1 vol.</p>
                <p>
-                  <pb n="32" facs="tcp:017872_0030_0FA37BFF41FB1C50"/>
+                  <pb n="32" facs="unknown:017872_0030_0FA37BFF41FB1C50"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="350"/> Churchill's poems, 3 vols.</p>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="351"/> Dodsley's collection of poems, 6 vols.</p>
@@ -1053,7 +1054,7 @@ Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, S
                      <item>
                         <milestone type="tcpmilestone" unit="unspecified" n="375"/> Vol. 2. Epistles, tales, eclogues, &amp;c. Dione, a pastoral tragedy.</item>
                      <item>
-                        <pb n="33" facs="tcp:017872_0031_0FA37C000139CFF0"/>
+                        <pb n="33" facs="unknown:017872_0031_0FA37C000139CFF0"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="376"/> Vol. 3. The Captives, Beggars opera, Polly, an opera, Achilles, the Distressed Wife, Re<g ref="char:EOLhyphen"/>hearsal of Goatham.</item>
                      <item>
                         <milestone type="tcpmilestone" unit="unspecified" n="377"/> Vol. 4. Fables.</item>
@@ -1088,7 +1089,7 @@ Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, S
                      <item>
                         <milestone type="tcpmilestone" unit="unspecified" n="390"/> Vol. 12. Provok'd Husband, or a Journey to London, Double Dealer, Constant Couple, or a Trip to the Jubilee, the Miser.</item>
                      <item>
-                        <pb n="34" facs="tcp:017872_0032_0FA37C00C1FA0AE0"/>
+                        <pb n="34" facs="unknown:017872_0032_0FA37C00C1FA0AE0"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="391"/> Vol. 13. Love Makes a Man, or the Fop's Fortune, Rehearsal, Bold Stroke for a Wife, the Alchymist.</item>
                      <item>
                         <milestone type="tcpmilestone" unit="unspecified" n="392"/> Vol. 14. Wonder, a Woman Keeps a Secret, Plain Dealer, Way of the World, Provok'd Wife.</item>
@@ -1124,7 +1125,7 @@ Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, S
                   <milestone type="tcpmilestone" unit="unspecified" n="404"/> Friskey songster, 1 vol.</p>
             </div>
             <div type="subject">
-               <pb n="35" facs="tcp:017872_0033_0FA37C018125BF38"/>
+               <pb n="35" facs="unknown:017872_0033_0FA37C018125BF38"/>
                <head>DIVINITY, PHYSIC, &amp;c. DUODECIMO.</head>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="405"/> Clayton's vindication of the Old and New Testament, in answer to the objections of the late lord Bolingbroke, 3 vols.</p>
@@ -1169,7 +1170,7 @@ Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, S
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="425"/> Oeconomy of human life, 1 vol.</p>
                <p>
-                  <pb n="36" facs="tcp:017872_0034_0FA37C0242D7DFF0"/>
+                  <pb n="36" facs="unknown:017872_0034_0FA37C0242D7DFF0"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="426"/> Mrs. Rowe's devout exercises of the heart, 1 vol.</p>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="427"/> Monro's anatomy, 1 vol.</p>
@@ -1227,7 +1228,7 @@ Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, S
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="452"/> Belisarius, 1 vol.</p>
                <p>
-                  <pb n="37" facs="tcp:017872_0035_0FA37B3642A830E8"/>
+                  <pb n="37" facs="unknown:017872_0035_0FA37B3642A830E8"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="453"/> Count de Poland, 2 vols.</p>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="454"/> Citizen of the world, 2 vols.</p>
@@ -1270,7 +1271,7 @@ Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, S
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="472"/> English Baron, a Gothic story, by Clara Reeve, 1 vol.</p>
                <p>
-                  <pb n="38" facs="tcp:017872_0036_0FA37B37029BC538"/>
+                  <pb n="38" facs="unknown:017872_0036_0FA37B37029BC538"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="473"/> Excursion, by Mrs. Brooke, 2 vols.</p>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="474"/> Example, or the history of Lucy Cleveland, 2 vols.</p>
@@ -1309,7 +1310,7 @@ Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, S
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="491"/> Fine Lady, 1 vol.</p>
                <p>
-                  <pb n="39" facs="tcp:017872_0037_0FA37B37C2AD64F0"/>
+                  <pb n="39" facs="unknown:017872_0037_0FA37B37C2AD64F0"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="492"/> Fashionable Friend, 2 vols.</p>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="493"/> Fool of Quality, or the history of Henry, earl of Moreland, by Mr. Brooke, 5 vols.</p>
@@ -1354,7 +1355,7 @@ Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, S
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="513"/> — of Henry Dumont, <abbr>Esq</abbr> and Miss Charlotte Evelyn, by Mrs. Clarke, 1 vol.</p>
                <p>
-                  <pb n="40" facs="tcp:017872_0038_0FA37B388185CD10"/>
+                  <pb n="40" facs="unknown:017872_0038_0FA37B388185CD10"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="514"/> History of his royal highness the duke of Cum<g ref="char:EOLhyphen"/>berland, and lady Grosvenor, with an ac<g ref="char:EOLhyphen"/>count of their trial for crim. con. 1 vol.</p>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="515"/> — of the marquis de Roselle, in a series of letters, by madam Elie de Beaumont, 1 vol.</p>
@@ -1389,7 +1390,7 @@ Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, S
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="530"/> — genuine, between Henry and Frances, 4 vols.</p>
                <p>
-                  <pb n="41" facs="tcp:017872_0039_0FA37B3981E104A0"/>
+                  <pb n="41" facs="unknown:017872_0039_0FA37B3981E104A0"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="531"/> Letter writer, or lady's polite secretary, 1 vol.</p>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="532"/> Literary amusements, or evening entertainer, 2 vols.</p>
@@ -1428,7 +1429,7 @@ Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, S
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="549"/> Margaretta, countess of Rainsford, a senti<g ref="char:EOLhyphen"/>mental novel, 1 vol.</p>
                <p>
-                  <pb n="42" facs="tcp:017872_0040_0FA37B3AB0AFFD40"/>
+                  <pb n="42" facs="unknown:017872_0040_0FA37B3AB0AFFD40"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="550"/> Memoirs of the Marchioness de Louvoi, in a series of letters, 2 vols.</p>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="551"/> Memoirs of a clergyman, 1 vol.</p>
@@ -1465,7 +1466,7 @@ Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, S
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="567"/> Parsonage-house, in a series of letters, 1 vol.</p>
                <p>
-                  <pb n="43" facs="tcp:017872_0041_0FA37B3AD1CE9BE8"/>
+                  <pb n="43" facs="unknown:017872_0041_0FA37B3AD1CE9BE8"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="568"/> Rival mother, or the history of the countess de Salens and her two daughters, 2 vols.</p>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="569"/> Rational lovers, or the history of Sir Charles Leusum and Mrs. Frances Fermor, 2 vols.</p>
@@ -1506,7 +1507,7 @@ Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, S
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="587"/> Woman of honour, 3 vols.</p>
                <p>
-                  <pb n="44" facs="tcp:017872_0042_0FA37B3B81A084E8"/>
+                  <pb n="44" facs="unknown:017872_0042_0FA37B3B81A084E8"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="588"/> Way to lose him, or the history of Miss Wyndham, 2 vols.</p>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="589"/> Way to win him, or the history of lady Sed<g ref="char:EOLhyphen"/>ley, 1 vol.</p>
@@ -1545,7 +1546,7 @@ Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, S
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="605"/> History of Miss Betsey Thoughtless, 4 vols.</p>
                <p>
-                  <pb n="45" facs="tcp:017872_0043_0FA37B3C42974CB0"/>
+                  <pb n="45" facs="unknown:017872_0043_0FA37B3C42974CB0"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="606"/> History of Tom Jones, a foundling, by Hen<g ref="char:EOLhyphen"/>ry Fielding, <abbr>Esq</abbr> 3 vols.</p>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="607"/> History of the knights of Malta, 5 vols.</p>
@@ -1579,7 +1580,7 @@ Yalden, Otway, Duke, Dorset, Halifax, Stepney, Walsh, Garth, King, J. Philips, S
 <list>
                      <item>
                         <milestone type="tcpmilestone" unit="unspecified" n="621"/> Vol. 1. Contains, the Guardian, the Ap<g ref="char:EOLhyphen"/>prentice, the Anatomist, Florizel and Perdita, High Life Below Stairs, the Mock Doctor,
-<pb n="46" facs="tcp:017872_0044_0FA37B3D028B6DA0"/>
+<pb n="46" facs="unknown:017872_0044_0FA37B3D028B6DA0"/>
 Taste, the Upholsterer, Lethe, the Knights, the Deuce is in Him, the Sultan, the Chap<g ref="char:EOLhyphen"/>let, Miss in her Teens.</item>
                      <item>
                         <milestone type="tcpmilestone" unit="unspecified" n="622"/> Vol. 2. The Mayor of Garrat, the Reprisal, the Devil to Pay, the Lying Valet, the Vir<g ref="char:EOLhyphen"/>gin Unmask'd, the Liar, the Cunning Man, the Old Maid, Thomas and Sally, Chronon<g ref="char:EOLhyphen"/>hotonthologos, Neck or Nothing, the Lot<g ref="char:EOLhyphen"/>tery, the Musical Lady, Midas.</item>
@@ -1605,7 +1606,7 @@ Taste, the Upholsterer, Lethe, the Knights, the Deuce is in Him, the Sultan, the
                   <milestone type="tcpmilestone" unit="unspecified" n="631"/> Oxford sausage, or select poetical farces. 1 vol.</p>
             </div>
             <div type="subject">
-               <pb n="47" facs="tcp:017872_0045_0FA37B3DC3233CE8"/>
+               <pb n="47" facs="unknown:017872_0045_0FA37B3DC3233CE8"/>
                <head>ARITHMETIC, &amp;c.</head>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="632"/> Dowling's arithmetic, 1 vol.</p>
@@ -1667,7 +1668,7 @@ Taste, the Upholsterer, Lethe, the Knights, the Deuce is in Him, the Sultan, the
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="659"/> Hughes, 2 vols.</p>
                <p>
-                  <pb n="48" facs="tcp:017872_0046_0FA37B3E82867048"/>
+                  <pb n="48" facs="unknown:017872_0046_0FA37B3E82867048"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="660"/> King, 2 vols.</p>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="661"/> Lyttelton, 1 vol.</p>
@@ -1731,7 +1732,7 @@ Taste, the Upholsterer, Lethe, the Knights, the Deuce is in Him, the Sultan, the
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="689"/> Roland l'Amoureux, 2 vols.</p>
                <p>
-                  <pb n="49" facs="tcp:017872_0047_0FA37B3F40F22448"/>
+                  <pb n="49" facs="unknown:017872_0047_0FA37B3F40F22448"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="690"/> Les Vielles du Chateau, 4 vols.</p>
                <p>
                   <milestone type="tcpmilestone" unit="unspecified" n="691"/>
@@ -1784,7 +1785,8 @@ Taste, the Upholsterer, Lethe, the Knights, the Deuce is in Him, the Sultan, the
       <back>
          <div type="advert">
             <p>
-               <pb facs="tcp:017872_0048_0FA37B406F8515B8" rendition="simple:additions"/>THE proprietor of the above <gap reason="illegible" resp="#PDCC" extent="1 span">
+               <pb facs="unknown:017872_0048_0FA37B406F8515B8"
+                   rendition="simple:additions"/>THE proprietor of the above <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> cata<g ref="char:EOLhyphen"/>
                <gap reason="illegible" resp="#PDCC" extent="2 letters">
